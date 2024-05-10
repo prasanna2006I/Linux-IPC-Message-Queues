@@ -1,6 +1,6 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-# NBAME:PRASANNA I
+# NAME:PRASANNA I
 # REG NO:212223220079
 
 # AIM:
